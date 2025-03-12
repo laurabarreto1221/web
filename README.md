@@ -1,1 +1,0 @@
-# logica y programacion
