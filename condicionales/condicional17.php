@@ -1,0 +1,17 @@
+<html>
+<head></head>
+<body>
+<?php
+$n=rand(1,3);
+echo"<br>";
+if($n==1){
+echo"alto";
+}
+elseif($n==2){
+echo"Precaucion";
+}else{
+echo"siga";
+}
+?>
+</body>
+</html>
